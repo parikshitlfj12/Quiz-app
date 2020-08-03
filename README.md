@@ -6,11 +6,11 @@ _**User**_ <br />
 _**Author**_ <br />
 
 1. **User App** - <br />
-![User App](assets/user.png)
+![User App](quizApp/src/assets/user.png)
 _Description_ - For taking quizzes and getting the report card
 
 2. **Author** - <br />
-![User App](assets/author.png/)
+![User App](quizApp/src/assets/author.png/)
 _Description_ - For posting Quizzes
 
 
